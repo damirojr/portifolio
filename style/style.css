@@ -23,7 +23,7 @@ body {
     justify-content: center;
     align-items: flex-start;
     box-sizing: border-box;
-    padding: 0 112px;
+    padding: 0 90px;
     position: relative;
 
 }
@@ -41,9 +41,9 @@ h2 {
 }
 
 .social-media {
-    margin-top: 1rem;
+    margin-top: 2rem;
     display: flex;
-
+    
 }
 
 .social-media a {
